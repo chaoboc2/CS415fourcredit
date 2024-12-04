@@ -440,8 +440,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 5
-  resetPosition: -50
-  startPosition: 50
+  backgroundWidth: 50
   parallaxEffect: 0.5
 --- !u!212 &120340459
 SpriteRenderer:
@@ -1043,8 +1042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 5
-  resetPosition: -50
-  startPosition: 50
+  backgroundWidth: 50
   parallaxEffect: 0.5
 --- !u!212 &637165800
 SpriteRenderer:
@@ -1144,8 +1142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 5
-  resetPosition: -50
-  startPosition: 50
+  backgroundWidth: 50
   parallaxEffect: 1.5
 --- !u!212 &644518639
 SpriteRenderer:
@@ -1245,8 +1242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 5
-  resetPosition: -50
-  startPosition: 50
+  backgroundWidth: 50
   parallaxEffect: 1.5
 --- !u!212 &679908724
 SpriteRenderer:
@@ -1496,8 +1492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 5
-  resetPosition: -50
-  startPosition: 50
+  backgroundWidth: 50
   parallaxEffect: 2
 --- !u!212 &971076930
 SpriteRenderer:
@@ -2136,8 +2131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 5
-  resetPosition: -50
-  startPosition: 50
+  backgroundWidth: 50
   parallaxEffect: 1
 --- !u!212 &1476247340
 SpriteRenderer:
@@ -2355,7 +2349,7 @@ Transform:
   m_GameObject: {fileID: 1605827759}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.16, y: 0, z: 0}
+  m_LocalPosition: {x: 16.16, y: 0, z: 1}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -2448,8 +2442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 5
-  resetPosition: -50
-  startPosition: 50
+  backgroundWidth: 50
   parallaxEffect: 1
 --- !u!212 &1863836964
 SpriteRenderer:
@@ -2633,8 +2626,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 5
-  resetPosition: -50
-  startPosition: 50
+  backgroundWidth: 50
   parallaxEffect: 2
 --- !u!212 &2079233058
 SpriteRenderer:
